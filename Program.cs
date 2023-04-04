@@ -19,3 +19,7 @@ do
                 arr1 = arr;
             }
     } 
+    while (s != "");
+    for (int i = 0; i < arr1.Length; i++)
+        Console.WriteLine("arr1[{0}] = {1}", i, arr1[i]);
+        Console.ReadKey();
