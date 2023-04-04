@@ -45,3 +45,7 @@ void PrintArray(string[] array)
             }
         Console.WriteLine();
     }
+
+string[] arr2 = new string[arr1.Length];
+SecondArrayWithIF(arr1, arr2);
+PrintArray(arr2);  
