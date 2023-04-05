@@ -1,0 +1,15 @@
+C:\Windows\Git_Geekbrains\FINAL1\MyWorkResult\bin\Debug\net6.0\MyWorkResult.exe
+C:\Windows\Git_Geekbrains\FINAL1\MyWorkResult\bin\Debug\net6.0\MyWorkResult.deps.json
+C:\Windows\Git_Geekbrains\FINAL1\MyWorkResult\bin\Debug\net6.0\MyWorkResult.runtimeconfig.json
+C:\Windows\Git_Geekbrains\FINAL1\MyWorkResult\bin\Debug\net6.0\MyWorkResult.dll
+C:\Windows\Git_Geekbrains\FINAL1\MyWorkResult\bin\Debug\net6.0\MyWorkResult.pdb
+C:\Windows\Git_Geekbrains\FINAL1\MyWorkResult\obj\Debug\net6.0\MyWorkResult.csproj.AssemblyReference.cache
+C:\Windows\Git_Geekbrains\FINAL1\MyWorkResult\obj\Debug\net6.0\MyWorkResult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\Git_Geekbrains\FINAL1\MyWorkResult\obj\Debug\net6.0\MyWorkResult.AssemblyInfoInputs.cache
+C:\Windows\Git_Geekbrains\FINAL1\MyWorkResult\obj\Debug\net6.0\MyWorkResult.AssemblyInfo.cs
+C:\Windows\Git_Geekbrains\FINAL1\MyWorkResult\obj\Debug\net6.0\MyWorkResult.csproj.CoreCompileInputs.cache
+C:\Windows\Git_Geekbrains\FINAL1\MyWorkResult\obj\Debug\net6.0\MyWorkResult.dll
+C:\Windows\Git_Geekbrains\FINAL1\MyWorkResult\obj\Debug\net6.0\refint\MyWorkResult.dll
+C:\Windows\Git_Geekbrains\FINAL1\MyWorkResult\obj\Debug\net6.0\MyWorkResult.pdb
+C:\Windows\Git_Geekbrains\FINAL1\MyWorkResult\obj\Debug\net6.0\MyWorkResult.genruntimeconfig.cache
+C:\Windows\Git_Geekbrains\FINAL1\MyWorkResult\obj\Debug\net6.0\ref\MyWorkResult.dll
